@@ -1,0 +1,4 @@
+interface:
+  display_name: "BOJ Optimize"
+  short_description: "Solve, debug, and optimize BOJ C++ PS solutions"
+  default_prompt: "Read the problem comment in my BOJ C++ file, summarize constraints and goal, decide the right approach, reuse my approach if valid, then create an optimized _opt.cpp with detailed explanatory comments and test verification."
