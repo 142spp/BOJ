@@ -14,7 +14,7 @@
     ],
     "editor.formatOnSave": false,
     "C_Cpp.intelliSenseEngine": "disabled",
-    "editor.inlayHints.enabled": "on",
+    //"editor.inlayHints.enabled": "off",
     "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
     "editor.semanticHighlighting.enabled": true,
     // "editor.semanticTokenColorCustomizations": {
@@ -29,4 +29,5 @@
     //         }
     //     }
     // }
+
 }
