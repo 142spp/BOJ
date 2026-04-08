@@ -53,7 +53,7 @@ int main() {
 
     while (low <= high) {
         long long mid = low + (high - low) / 2;
-
+        
         // mid 길이로 만들 수 있는 랜선 개수 계산
         long long cnt = 0;
         for (long long x : wires) {
