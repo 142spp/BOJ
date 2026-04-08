@@ -8,7 +8,6 @@ int main(){
     getline(cin,buffer);
     int word=0;
 
-
     for(int i=0; i<buffer.length(); i++){ 
         if(buffer[i]==' ') word ++;
     }
